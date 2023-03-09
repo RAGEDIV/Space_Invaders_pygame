@@ -1,0 +1,11 @@
+hello
+ to play the game all the controls are in key board:
+	for player movement:
+	(i) w or up arrow for upward movement
+	(ii) d or right arrow for right side movement
+	(iii) s or down arrow for down movement
+	(iv) a or  left arrow key for let side movement
+	(v) space bar to shoot bullet
+
+
+PS:- this game was made by Divyanshu Kumar Singh taking help from the youtube channel freecodecamp.org
